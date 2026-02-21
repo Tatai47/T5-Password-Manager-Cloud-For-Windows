@@ -39,11 +39,11 @@
 
 | Login Screen | Password Vault | Data Entry |
 | :---: | :---: | :---: |
-| <img src="Images/login-screen.png" alt="login-screen" width="200"/> | <img src="Images/vault-screen.png" alt="Vault" width="200"/> | <img src="Images/data-entry-screen.png" alt="Generator" width="200"/> |
+| <img src="images/login-screen.png" alt="login-screen" width="200"/> | <img src="images/vault-screen.png" alt="Vault" width="200"/> | <img src="images/data-entry-screen.png" alt="Generator" width="200"/> |
 | Loading Screen | Create Password Vault | Vault Login |
-| <img src="Images/loading-screen.png" alt="loding-screen" width="200"/> | <img src="Images/vault-setup-screen.png" alt="Vault setup" width="200"/> | <img src="Images/vault-login-screen.png" alt="Vault Login" width="200"/> | 
+| <img src="images/loading-screen.png" alt="loding-screen" width="200"/> | <img src="images/vault-setup-screen.png" alt="Vault setup" width="200"/> | <img src="images/vault-login-screen.png" alt="Vault Login" width="200"/> | 
 | Reset Vault |
-<img src="Images/vault-reset-screen.png" alt="Reset Vault" width="200"/>
+<img src="images/vault-reset-screen.png" alt="Reset Vault" width="200"/>
 ---
 
 *(Note: Just drop your images into the `images/` folder in your repository to make these appear!)*
