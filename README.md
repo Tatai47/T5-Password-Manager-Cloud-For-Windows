@@ -21,7 +21,7 @@
 
 <br>
 
-> **T5 Password Manager** is a packaged Windows desktop password manager for organizing credentials in vaults, generating passwords, and managing vault login and recovery workflows. This repository contains the Windows executable, screenshots, branding, and documentation.
+> **T5 Password Manager Cloud for Windows** is a packaged desktop credential-management application for creating and accessing password vaults, generating passwords, and managing saved password entries through a focused Windows workflow. The current package includes master-password login, vault creation, vault access, reset, sign-up, and data-entry screens. This repository distributes the Windows executable with screenshots and branding; the Flutter/Dart source tree is not included.
 
 ---
 
