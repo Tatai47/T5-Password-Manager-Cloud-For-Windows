@@ -13,7 +13,7 @@
 
   <br><br>
 
-  <a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud%20Windows.zip">
+  <a href="https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud.exe">
     <img src="https://img.shields.io/badge/Download-For_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
   </a>
 
@@ -21,7 +21,7 @@
 
 <br>
 
-> **T5 Password Manager** is a Windows desktop credential manager distributed as a packaged Windows ZIP archive. The repository currently contains the packaged application, screenshots, branding, and documentation rather than the Flutter/Dart source tree.
+> **T5 Password Manager** is a Windows desktop credential manager distributed as a packaged Windows executable. The repository currently contains the packaged application, screenshots, branding, and documentation rather than the Flutter/Dart source tree.
 
 ---
 
@@ -55,13 +55,13 @@
 
 ## 📦 Download and install the packaged application
 
-1. Download **[T5 Password Manager Cloud Windows.zip](https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud%20Windows.zip)**.
-2. Extract the ZIP file to a folder such as `C:\Apps\T5PasswordManager`.
+1. Download **[T5 Password Manager Cloud.exe](https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud.exe)**.
+2. Save the executable to a folder such as `C:\Apps\T5PasswordManager`.
 3. Start the application's Windows executable from the extracted folder.
-4. If Windows SmartScreen displays a warning, verify that the archive came from this repository before choosing whether to continue. Do not bypass warnings for copies obtained from unofficial mirrors.
+4. If Windows SmartScreen displays a warning, verify that the executable came from this repository before choosing whether to continue. Do not bypass warnings for copies obtained from unofficial mirrors.
 5. Create or open a vault and test the application with non-critical data first.
 
-The repository currently does not publish versioned GitHub Releases or a checksum for the ZIP archive. For security-sensitive software, a signed installer and SHA-256 checksum would improve release verification.
+The repository currently does not publish versioned GitHub Releases or a checksum for the executable. For security-sensitive software, a signed installer and SHA-256 checksum would improve release verification.
 
 ---
 
@@ -108,7 +108,7 @@ The README previously described this project as Flutter/Dart with MVVM, Firebase
 
 Based on the repository contents, the directly verifiable project artifacts are:
 
-- `T5 Password Manager Cloud Windows.zip` — packaged Windows application archive
+- `T5 Password Manager Cloud.exe` — packaged Windows application archive
 - `images/` — UI screenshots
 - `T5-logo.png` — project logo
 - `README.md` — project documentation
