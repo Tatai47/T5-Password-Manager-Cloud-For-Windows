@@ -57,7 +57,7 @@
 
 1. Download **[T5 Password Manager Cloud.exe](https://github.com/Tatai47/T5-Password-Manager-Cloud-For-Windows/raw/refs/heads/main/T5%20Password%20Manager%20Cloud.exe)**.
 2. Save the executable to a folder such as `C:\Apps\T5PasswordManager`.
-3. Start the application's Windows executable from the extracted folder.
+3. Start the application's Windows executable from that folder.
 4. If Windows SmartScreen displays a warning, verify that the executable came from this repository before choosing whether to continue. Do not bypass warnings for copies obtained from unofficial mirrors.
 5. Create or open a vault and test the application with non-critical data first.
 
@@ -108,7 +108,7 @@ The README previously described this project as Flutter/Dart with MVVM, Firebase
 
 Based on the repository contents, the directly verifiable project artifacts are:
 
-- `T5 Password Manager Cloud.exe` — packaged Windows application archive
+- `T5 Password Manager Cloud.exe` — packaged Windows executable
 - `images/` — UI screenshots
 - `T5-logo.png` — project logo
 - `README.md` — project documentation
